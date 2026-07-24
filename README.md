@@ -13,7 +13,7 @@ Provide business recommendations
 
 ---
 
-## Tools
+## 🛠 Tools
 Python
 Pandas
 Matplotlib
@@ -22,7 +22,7 @@ SQL
 
 ---
 
-## Dataset
+## 📊 Dataset
 10000 bank customers
 
 Features include
@@ -37,12 +37,12 @@ Tenure
 
 ---
 
-## Dashboard
+## 📷 Dashboard
 <img width="2308" height="1225" alt="image" src="https://github.com/user-attachments/assets/cc0a6227-0db2-4957-aa14-947bc797e69e" />
 
 ---
 
-## Key Findings
+## 📈 Key Findings
 Germany has highest churn
 Female customers churn more
 Inactive customers have higher churn
@@ -50,7 +50,7 @@ High balance customers tend to churn
 
 ---
 
-## Business Recommendation
+## 💡 Business Recommendation
 Loyalty Program
 Personalized Campaign
 Early Warning Model
