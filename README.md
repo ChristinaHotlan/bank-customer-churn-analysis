@@ -1,4 +1,4 @@
-# Bank-Churn-Analysis
+# Bank-Customer-Churn-Analysis
 Customer Churn Analysis using Python and Tableau
 
 ---
