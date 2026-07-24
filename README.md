@@ -3,7 +3,7 @@ Customer Churn Analysis using Python and Tableau
 
 ---
 
-## Project Background
+## 📌 Project Background
 Customer churn significantly impacts bank profitability. This project analyzes customer behavior to identify key churn drivers and recommend retention strategies.
 Objectives
 Identify churn drivers
