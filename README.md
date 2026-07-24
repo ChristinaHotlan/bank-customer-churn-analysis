@@ -5,35 +5,35 @@ Customer Churn Analysis using Python and Tableau
 
 ## 📌 Project Background
 Customer churn significantly impacts bank profitability. This project analyzes customer behavior to identify key churn drivers and recommend retention strategies.
-Objectives
-Identify churn drivers
-Analyze customer demographics
-Build interactive dashboard
-Provide business recommendations
+- Objectives
+- Identify churn drivers
+- Analyze customer demographics
+- Build interactive dashboard
+- Provide business recommendations
 
 ---
 
 ## 🛠 Tools
-Python
-Pandas
-Matplotlib
-Tableau
-SQL
+- Python
+- Pandas
+- Matplotlib
+- Tableau
+- SQL
 
 ---
 
 ## 📊 Dataset
 10000 bank customers
 
-Features include
-Age
-Balance
-Geography
-Credit Score
-Active Member
-Products
-Gender
-Tenure
+### Features include
+- Age
+- Balance
+- Geography
+- Credit Score
+- Active Member
+- Products
+- Gender
+- Tenure
 
 ---
 
@@ -43,18 +43,18 @@ Tenure
 ---
 
 ## 📈 Key Findings
-Germany has highest churn
-Female customers churn more
-Inactive customers have higher churn
-High balance customers tend to churn
+- Germany has highest churn
+- Female customers churn more
+- Inactive customers have higher churn
+- High balance customers tend to churn
 
 ---
 
 ## 💡 Business Recommendation
-Loyalty Program
-Personalized Campaign
-Early Warning Model
-Customer Retention Strategy
+- Loyalty Program
+- Personalized Campaign
+- Early Warning Model
+- Customer Retention Strategy
 
 ---
 
